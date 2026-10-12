@@ -1,0 +1,6 @@
+fastapi==0.143.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+qrcode==8.2
+pillow==12.3.0
+reportlab==5.0.1
